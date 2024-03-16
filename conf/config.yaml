@@ -1,3 +1,3 @@
-OPENAI_API_KEY: api_key
+OPENAI_API_KEY: "c2stTHBHdEtKWXVVbm1HalF2eXFaTmZUM0JsYmtGSmZ4SFZ2cXRUZk9KdVJPVTV1NzZICg=="
 executable_path: /path/to/chromedriver
 user_data_dir: /path/to/user_data
